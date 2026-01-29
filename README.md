@@ -27,4 +27,4 @@ My current focus is on understanding the practical implementation of security to
 ## 🛠️ Documented Troubleshooting Cases
 * **Display Mapping:** Resolved screen tearing on legacy NVIDIA hardware using `ForceFullCompositionPipeline`.
 * **Environment Recovery:** Restored XFCE panel configurations and UI elements following proprietary driver migrations.
-* **Permission Management:** Navigated Linux access controls to manage system-level services like Tailscale via the terminal [cite: 91f9bc23-5f69-4ee2-924e-767
+* **Permission Management:** Navigated Linux access controls to manage system-level services like Tailscale via the terminal
